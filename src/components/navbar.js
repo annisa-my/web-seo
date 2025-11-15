@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import { Link } from "gatsby"
-import logo from "../images/logo gapura.png" // pastiin path logo bener ya
+import logo from "../images/logo-gapura.png" // pastiin path logo bener ya
 
 const Navbar = () => {
   const [openMenu, setOpenMenu] = useState(false)

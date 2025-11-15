@@ -13,7 +13,6 @@ const Gallery = () => {
     { title: "Lingkungan Sekolah", img: BackGroud },
     { title: "Praktik Kejuruan", img: BackGroud },
   ]
-
   return (
     <div className="max-w-7xl mx-auto mt-16 px-4">
       {/* HERO SECTION */}

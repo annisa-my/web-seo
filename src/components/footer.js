@@ -1,7 +1,7 @@
 import { Link } from "gatsby"
 import React from "react"
 
-import logo from "../images/logo gapura.png"
+import logo from "../images/logo-gapura.png"
 
 const Footer = () => {
   return (

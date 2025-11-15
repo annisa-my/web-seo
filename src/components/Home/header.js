@@ -1,7 +1,7 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 
-import hero from "../../images/logo-Gapura.png" // ubah ke logo SMK lo ya bro
+import hero from "../../images/logo-gapura.png" // ubah ke logo SMK lo ya bro
 
 const Header = () => {
   return (

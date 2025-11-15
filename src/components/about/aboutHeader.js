@@ -18,7 +18,7 @@ const AboutHeader = () => {
 
           <h2 className="text-black text-base font-normal leading-relaxed xxs:text-sm xs:text-sm sm:text-base lg:text-lg">
             SMK Gapura Pertiwi hadir sebagai lembaga pendidikan kejuruan yang berkomitmen mencetak generasi muda yang terampil,
-            disiplin, dan siap bersaing di dunia kerja. Melalui kurikulum berbasis kompetensi dan pembelajaran yang inovatif,
+            disiplinn, dan siap bersaing di dunia kerja. Melalui kurikulum berbasis kompetensi dan pembelajaran yang inovatif,
             sekolah ini terus berupaya menjadi wadah pengembangan potensi dan kreativitas peserta didik.
           </h2>
         </div>

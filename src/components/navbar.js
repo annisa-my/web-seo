@@ -28,7 +28,7 @@ const Navbar = () => {
 
                   <div className="hidden md:block">
                     <div className="ml-10 flex items-center space-x-4">
-                    {["Home", "About", "Gallery", "Blog", "Contact"].map((item) =>
+                    {["Home", "About", "Gallery", "Contact"].map((item) =>
                       item === "Home" ?  (
                         <Link
                         key={item}

@@ -11,19 +11,19 @@ const Contact = () => {
   return (
     <Layout>
       <Seo
-        title="Contact - Holo"
+        title="My contact Smk gapura pertiwi"
         description="Holo is a visually striking and highly customizable open source theme built on the powerful Gatsby framework and integrated with the versatile Decap CMS"
       ></Seo>
 
       <div className="max-w-7xl mx-auto mt-10 flex text-white xxs:flex-col sm:flex-row">
         <Fade duration={1200}>
           <div className="bg-dp opacity-70 p-10 rounded-xl w-3/4 m-5 w-auto">
-            <h1 className="text-3xl text-white">CONTACT HOLO</h1>
+            <h1 className="text-3xl text-white">My contact </h1>
             <h2 className=" text-black text-gradient bg-gradient-to-r from-pink to-purple text-4xl font-bold mt-2 xxs:text-lg sm:text-2xl lg:text-4xl">
-              Gatsby Theme
+              smk gapura pertiwi
             </h2>
             <p className="text-lg mt-2 opacity-70 w-3/4 xxs:text-xs xxs:w-full sm:text-sm sm:w-3/4">
-              A stunning and minimal personalized website starter theme.
+              .
             </p>
 
             <div className="w-full shrink-0 grow-0 basis-auto lg:w-ful mt-10">
@@ -53,7 +53,7 @@ const Contact = () => {
                         Phone
                       </p>
                       <p className="text-neutral-500 mb-2">
-                        <a href="tel:+#">(08) 9000 000</a>
+                        <a href="tel:+#">(085) 312016954</a>
                       </p>
                     </div>
                   </div>
@@ -83,7 +83,7 @@ const Contact = () => {
                         Email
                       </p>
                       <p className="text-neutral-500 mb-2">
-                        <a href="mailto:hello@holo.com?subject=Contact Holo for help.">
+                        <a href="mailto:hello@holo.com?subject=Contact smk gapura pertiwi for help.">
                           hello@holo.com
                         </a>
                       </p>
@@ -112,9 +112,9 @@ const Contact = () => {
                     </div>
                     <div className="ml-2 grow">
                       <p className="mb-2 font-bold underline decoration-pink">
-                        Location
+                        Alamat
                       </p>
-                      <p className="text-neutral-500 mb-2">Worldwide</p>
+                      <p className="text-neutral-500 mb-2">Jl. Raya Balaraja, Kaliasin, Kec. Kronjo, Kabupaten Tangerang, Banten 15615</p>
                     </div>
                   </div>
                 </div>
@@ -142,7 +142,7 @@ const Contact = () => {
                       <p className="mb-2 font-bold underline decoration-pink">
                         Opening Hours
                       </p>
-                      <p className="text-neutral-500 mb-2">24/7</p>
+                      <p className="text-neutral-500 mb-2">7.00 am / 4.00 pm</p>
                     </div>
                   </div>
                 </div>
